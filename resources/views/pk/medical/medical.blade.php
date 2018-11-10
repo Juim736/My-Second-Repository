@@ -26,7 +26,7 @@
         
         <img src="{{asset('/pk/')}}/images/medical1.jpg" alt="" style="width:100%;height: 300px;">
         <div class="carousel-caption" style="color: red;">
-          <h3>Los Angeles</h3>
+          <h3>Los Mimi</h3>
           <p>LA is always so much fun!</p>
         </div>
       </div>
