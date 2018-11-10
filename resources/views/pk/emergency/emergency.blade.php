@@ -1,5 +1,4 @@
 @include('pk.includes.header')
-
 <br>
 <br>
 <br>
@@ -17,16 +16,12 @@
 		</div>
 	</div>
 </div>
-
 </div>
-
 <div class="bodysection">
-	<div class="col-md-1">
-		
+	<div class="col-md-1">	
 	</div>
 	<div class="col-md-11">
-		<div class="col-md-3" style="background: #ff00ff">
-			
+		<div class="col-md-3" style="background: #ff00ff">			
 		</div>
 		<div class="col-md-7" style="background: #fff0b3; overflow-y: scroll;">
 			<div class="panel panel-default" style="margin-top: 9px">
@@ -36,7 +31,6 @@
 			    Write your post .....</div>
 			    <div class="panel-footer"><button class="btn btn-default"><span class="pull-right">Submit</span></button> </div>
 		    </div>
-
 		    <div class="panel panel-default">
 			    <div class="panel-heading" style="background: #e6e6e6">
 			    	<img src="{{asset('/pk/')}}/images/a1.jpg" class="img-circle" alt="Image" style="height: 40px;width: 40px;"><p>Pakundiya Sadar</p></div>
@@ -65,8 +59,6 @@
 				</div>
 			    <div class="panel-footer" style="background: #e6e6e6"><button class="btn btn-primary">Reply</button> </div>
 		    </div>
-
-
 			<div class="panel panel-default">
 			    <div class="panel-heading">
 			    	<img src="{{asset('/pk/')}}/images/a2.jpg" class="img-circle" alt="Image" style="height: 40px;width: 40px;"><p>Pakundiya Sadar</p></div>
@@ -81,8 +73,6 @@
 				</div>
 			    <div class="panel-footer"><button class="btn btn-primary">Reply</button> </div>
 		    </div>
-
-
 		    <div class="panel panel-default">
 			    <div class="panel-heading">
 			    	<img src="{{asset('/pk/')}}/images/a4.jpg" class="img-circle" alt="Image" style="height: 40px;width: 40px;"><p>Pakundiya Sadar</p></div>
@@ -97,7 +87,6 @@
 				</div>
 			    <div class="panel-footer"><button class="btn btn-primary">Reply</button> </div>
 		    </div>
-
 		     <div class="panel panel-default">
 			    <div class="panel-heading">
 			    	<img src="{{asset('/pk/')}}/images/a7.jpg" class="img-circle" alt="Image" style="height: 40px;width: 40px;"><p>Pakundiya Sadar</p></div>
@@ -152,8 +141,7 @@
 						</div>
 					</div>
 					</a>
-				</li>
-				
+				</li>			
 				<li style="background: #ffffff">
 					<a href="">
 						<div class="row">
@@ -425,11 +413,8 @@
       </div>
       
     </div>
-  </div>
-  
+  </div>  
 </div>
-
-
 
 <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
