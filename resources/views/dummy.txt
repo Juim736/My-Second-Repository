@@ -1,0 +1,76 @@
+<div class="flexslider">
+						<ul class="slides">
+							<li>
+							<div class="w3l-info">
+								<h2>Education is important to our life</h2>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+											<p>Education is premise of progress & Life</p>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-pencil" aria-hidden="true"></i>
+											<p> Education is the most powerful weapon</p>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-book" aria-hidden="true"></i>
+											<p>Education is passport to the future</p>
+											</div>
+										</div>
+										<div class="clearfix"></div>
+							</div>
+							</li>
+							<li>
+								<div class="w3l-info">
+								<h3>Education is important to our life</h3>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-pencil" aria-hidden="true"></i>
+											<p>Education is not pail but lighting of fire.</p>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+											<p>Education is the key to success in life</p>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-book" aria-hidden="true"></i>
+											<p>Education is not preparation,is life</p>
+											</div>
+										</div>
+										<div class="clearfix"></div>
+								</div>
+							</li>
+							<li>
+								<div class="w3l-info">
+								<h3>Education is important to our life</h3>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-book" aria-hidden="true"></i>
+											<p>SAVING THE PLANET By educating people</p>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-pencil" aria-hidden="true"></i>
+											<p>Education is to unlock the freedom</p>
+											</div>
+										</div>
+										<div class="col-md-4">
+											<div class="grid1">
+											<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+											<p>The aim of education is not knowledge</p>
+											</div>
+										</div>
+										<div class="clearfix"></div>
+								</div>
+							</li>
+						</ul>
+					</div>
